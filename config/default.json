@@ -1,0 +1,8 @@
+{
+    "ssid": "Stichting De Melkweg",
+    "wifi_pw": "melkweggast", 
+    "server": "c4c.lvl-up.dev", 
+    "ssl": false, 
+    "user": "test",
+    "password": "test"
+}
